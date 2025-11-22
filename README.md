@@ -58,15 +58,6 @@ Northwind_DWH/
 
 ---
 
-##  Next Steps (Optional Enhancements)
-
-* Build star schema fact tables (Sales, Inventory, Purchasing).
-* Create Data Quality dashboards.
-* Automate ETL using Python, SSIS, or Airflow.
-* Build Power BI reports.
-
----
-
 ##  Summary
 
 This project transforms the raw Northwind dataset into a professional-grade Data Warehouse with clean dimensions, validated facts, and consistent modeling rules—ready for analytics, reporting, and business insights.
